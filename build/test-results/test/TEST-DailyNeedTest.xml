@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DailyNeedTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-15T12:52:32" hostname="Gunjans-MBP.bbrouter" time="0.023">
+  <properties/>
+  <testcase name="shouldEquateToPriceEightyRupeesFor1kgOnionAnd2kgTomato()" classname="DailyNeedTest" time="0.023"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
